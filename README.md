@@ -27,5 +27,5 @@ We treated this as a classification problem and evaluated three different machin
 * **Environment:** Jupyter Notebook
 
 > **Note:** This project was developed collaboratively as an end-term Machine Learning academic project.
-
+> 
 > **Team Members:** Rabchenyuk Alina, Omarbekova Marzhan, Telengutov Daniyar, Darmani Azizullah.
