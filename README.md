@@ -30,5 +30,5 @@ We treated this as a classification problem and evaluated three different machin
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/al1naaa/happiness-prediction-ml.git](https://github.com/al1naaa/happiness-prediction-ml.git)
+   git clone https://github.com/al1naaa/happiness-prediction-ml.git
    cd happiness-prediction-ml
