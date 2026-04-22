@@ -26,9 +26,5 @@ We treated this as a classification problem and evaluated three different machin
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 
-## How to Run the Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/al1naaa/happiness-prediction-ml.git
-   cd happiness-prediction-ml
+> **Note:** This project was developed collaboratively as an end-term Machine Learning academic project.
+> **Team Members:** Rabchenyuk Alina, Omarbekova Marzhan, Telengutov Daniyar, Darmani Azizullah.
